@@ -1,0 +1,96 @@
+#EXTM3U
+
+# VOV
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/VOV_Mekong_logo_2020.png/revision/latest?cb=20241021110847&path-prefix=vi", VOV Giao thông Mekong FM 90MHz
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://quangcaovovgiaothong.com/wp-content/uploads/2022/06/VOVGT-1024x606-final.png", VOV Giao thông HCM FM 91MHz
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi", VOV2 96.5Mhz
+# https://stream-cdn.vov.vn/live/vov2-audio_only.m3u8
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest/scale-to-width-down/180?cb=20220213141104&path-prefix=vi", VOV3 102.7Mhz
+# https://stream-cdn.vov.vn/live/vov3-audio_only.m3u8
+
+
+# VOH
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg", VOH FM 95.6Mhz
+# https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
+# https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/chunklist_w1153875163.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/chunklist_w1346252454.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH FM 92-92.5Mhz
+https://strm.voh.com.vn/radio/channel6/chunklist_w1152031988.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
+
+# DAI TINH
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-vinh-long-5---3-01-112914.jpg", Radio Vĩnh Long FM 90.2MHz
+# loilink
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-can-tho-5---3-01-114215.jpg", Radio Cần Thơ FM 93.7MHz
+https://live.canthotv.vn/live/radio/chunklist_w415246972.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/27/logo-dai-dong-thap-app-102538.jpg", Radio Đồng Tháp FM 96.2-98.4MHz
+https://megasystems-6c680321cd.gw-dthcdn.com/thdtradio/thdtradio.m3u8
+
+# AM NHAC
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg", V-POP Radio
+https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/JB2zPitWC-s/zhls/playback-realtime/audio/6ddadf76e3330a6d5322/audio.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", CHẠM Radio
+https://vnso-pt-52-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg", ACOUSTIC Radio
+https://vnso-pt-38-tf-multi-playlist-zmp3.zmdcdn.me/4TX5Vj5v__E/zhls/playback-realtime/audio/9b7b55d7699280ccd983/audio.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/0/5/1305cd954d22d89fef4354301613fd68.jpg", BOLERO Radio
+https://vnso-pt-37-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/9/6/f/b96f6e19b183766e1c286c76356e1818.jpg", INDIE Radio
+https://vnso-pt-52-tf-multi-playlist-zmp3.zmdcdn.me/uma6ByWhxq4/zhls/playback-realtime/audio/eeff2a531616ff48a607/audio.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/9/1/1/a91125f46d6dc0eaa045587d2b9a4496.jpg", NHẠC KHÔNG LỜI Radio
+https://vnno-cm-2-tf-multi-playlist-zmp3.zmdcdn.me/KOY-wvc-pKE/zhls/playback-realtime/audio/1f36d59ae9df008159ce/audio.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
+https://stream.zeno.fm/4q7y9hvkp2zuv
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/27625.v11.png", CHERRY Radio - Nhạc Trẻ
+https://stream-176.zeno.fm/umt5gqmg3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bXQ1Z3FtZzNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxvSnJubjFsUWdlSVhMMVBnVkk5WlEiLCJpYXQiOjE3NDAzODI0NTksImV4cCI6MTc0MDM4MjUxOX0.FaEQZ5SI3Gc1wMuBM7rVaszIKAAda00Yv3V5WnUkooM
+
+
+# RADIO HAI NGOAI
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://yt3.googleusercontent.com/zZXbOKfZSg-suC_0P9KMu6gS-fbzmUMxPM2mD4mSGrAKIVK9iudP2ysn0U0O5z1LGHhZmS9J=s160-c-k-c0x00ffffff-no-rj", RFI Tiếng Việt
+https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/tieng-nuroc.png", Radio Tiếng Nước Tôi
+https://cast4.servcast.net/proxy/longpham2/stream/1/
+
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://www.cherryradio.com.au/images/kenhtintuc-player.png", CHERRY Radio - Tin Tức
+# https://cherryradio.com.au/stream/tin-tuc.mp3
+
+# #EXTINF:-1 group-title="Radio" tvg-logo="https://cherryradio.com.au/images/nhactritinh-player.png", CHERRY Radio - Nhạc Trữ Tình
+# https://cherryradio.com.au/stream/tru-tinh.mp3
