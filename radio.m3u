@@ -2,19 +2,12 @@
 
 # VOV
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/VOV_Mekong_logo_2020.png/revision/latest?cb=20241021110847&path-prefix=vi", VOV Giao thông Mekong FM 90MHz
+#EXTINF:-1 tvg-id="vovgthcm" group-title="KÊNH VOV" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV GIAO THÔNG TP.HCM
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1 tvg-id="vovgtmekong" group-title="KÊNH VOV" tvg-logo="https://i.imgur.com/2tMmok6.png" radio="true",VOV GIAO THÔNG MÊ KÔNG
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://quangcaovovgiaothong.com/wp-content/uploads/2022/06/VOVGT-1024x606-final.png", VOV Giao thông HCM FM 91MHz
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-
-# #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi", VOV2 96.5Mhz
-# https://stream-cdn.vov.vn/live/vov2-audio_only.m3u8
-
-# #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest/scale-to-width-down/180?cb=20220213141104&path-prefix=vi", VOV3 102.7Mhz
-# https://stream-cdn.vov.vn/live/vov3-audio_only.m3u8
-
+#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="KÊNH VOV" radio="true" tvg-logo="https://i.postimg.cc/t43J2yhN/Duyenhai.png",VOV GIAO THÔNG DUYÊN HẢI
+https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 
 # VOH
 
