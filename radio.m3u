@@ -2,11 +2,13 @@
 
 # VOV
 
-#EXTINF:-1 tvg-id="vovgthcm" group-title="KÊNH VOV" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV GIAO THÔNG TP.HCM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png", VOV GIAO THÔNG TP.HCM
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtmekong" group-title="KÊNH VOV" tvg-logo="https://i.imgur.com/2tMmok6.png" radio="true",VOV GIAO THÔNG MÊ KÔNG
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/2tMmok6.png", VOV GIAO THÔNG MÊ KÔNG
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="KÊNH VOV" radio="true" tvg-logo="https://i.postimg.cc/t43J2yhN/Duyenhai.png",VOV GIAO THÔNG DUYÊN HẢI
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/t43J2yhN/Duyenhai.png", VOV GIAO THÔNG DUYÊN HẢI
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 
 # VOH
