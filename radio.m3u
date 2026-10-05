@@ -3,7 +3,7 @@
 # VOV
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png", VOV GIAO THÔNG TP.HCM
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/2tMmok6.png", VOV GIAO THÔNG MÊ KÔNG
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
@@ -13,38 +13,20 @@ https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 
 # VOH
 
-# #EXTINF:-1 group-title="Radio" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg", VOH FM 95.6Mhz
-# https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-
-# #EXTINF:-1 group-title="Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
-# https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6Mhz
-https://1011337676.vnns.net/htvc/VOH-FM99.9.adm.tms/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=10039
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/chunklist_w1346252454.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=10037
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH FM 92-92.5Mhz
-https://strm.voh.com.vn/radio/channel6/chunklist_w1152031988.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=10040
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7Mhz
-https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=10038
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-
-
-# DAI TINH
-
-# #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-vinh-long-5---3-01-112914.jpg", Radio Vĩnh Long FM 90.2MHz
-# loilink
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-can-tho-5---3-01-114215.jpg", Radio Cần Thơ FM 93.7MHz
-https://live.canthotv.vn/live/radio/chunklist_w415246972.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/27/logo-dai-dong-thap-app-102538.jpg", Radio Đồng Tháp FM 96.2-98.4MHz
-https://megasystems-6c680321cd.gw-dthcdn.com/thdtradio/thdtradio.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=10036
 
 # AM NHAC
 
